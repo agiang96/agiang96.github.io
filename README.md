@@ -6,7 +6,7 @@ I am a Computer Science Graduate of SDSU experienced in developing, testing, deb
 
 [Legend Of Xela](agiang96.github.io/LegendOfXela)
 
-[Magic Conch]{agiang96.github.io/MagicConch)
+[Magic Conch](agiang96.github.io/MagicConch)
 
 [Can You Get Out?](agiang96.github.io/CYGO)
 
