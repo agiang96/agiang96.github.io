@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CS596_YUGE_Game",
+"dataUrl": "LegendOfXela.data.unityweb",
+"asmCodeUrl": "LegendOfXela.asm.code.unityweb",
+"asmMemoryUrl": "LegendOfXela.asm.memory.unityweb",
+"asmFrameworkUrl": "LegendOfXela.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
