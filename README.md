@@ -4,7 +4,7 @@ I am a Computer Science Graduate of SDSU experienced in developing, testing, deb
 
 ### Projects
 
-[![Legend Of Xela](./images/lox.JPG =400x400)](https://agiang96.github.io/LegendOfXela)
+[![Legend Of Xela](./images/lox.JPG)](https://agiang96.github.io/LegendOfXela =400x400)
 
 [![Magic Conch](./images/mc.JPG)](https://agiang96.github.io/MagicConch)
 
