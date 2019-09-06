@@ -1,6 +1,6 @@
-## Welcome to Alex's Portfolio
+## About Me
 
-He is a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. His projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, He loves to learn his favorite songs on the piano!
+I am a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. My projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, I love to learn his favorite songs on the piano!
 
 ### Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. 
