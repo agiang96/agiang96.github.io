@@ -15,7 +15,7 @@ This [Resort Reservation System](https://github.com/chauduthuan/ResortReservatio
 <a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox.JPG" width="400" height="400"> </a> 
 
 [The Magic Conch](https://github.com/agiang96/MagicConch) is a Fortune Teller Application that can answer most of your questions
-(The game for this one does not work right now, so if you want to try it you can download it by clicking the hyperlink above)
+(The game for this one does not work right now, so if you want to try it you can download it by clicking the hyperlink above or finding it through my github projects page)
 
 <a href="https://agiang96.github.io/MagicConch"><img src="/images/mc.JPG" width="400" height="400"> </a> 
 
