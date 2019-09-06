@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteCond $1 !^(index\.php|css|js|public|themes|img|font|captcha|robots|documents|\.txt)
-RewriteRule ^(.*)$ /hotel/index.php/$1 [L]
-
