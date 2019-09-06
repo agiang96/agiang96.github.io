@@ -4,11 +4,11 @@ I am a Computer Science Graduate of SDSU experienced in developing, testing, deb
 
 ### Projects
 
-[![Legend Of Xela][image]][agiang96.github.io/LegendOfXela]
+[Legend Of Xela](agiang96.github.io/LegendOfXela)
 
-[![Magic Conch][image]][agiang96.github.io/MagicConch]
+[Magic Conch]{agiang96.github.io/MagicConch)
 
-[![Can You Get Out?][image]][agiang96.github.io/CYGO]
+[Can You Get Out?](agiang96.github.io/CYGO)
 
-[![Rock Paper Scissors Inverted][image]][agiang96.github.io/RPSI]
+[Rock Paper Scissors Inverted](agiang96.github.io/RPSI)
 
