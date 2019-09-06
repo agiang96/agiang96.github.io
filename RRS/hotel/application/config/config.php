@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/hotel/';
+$config['base_url']	= 'http://agiang96.github.io/hotel/';
 
 /*
 |--------------------------------------------------------------------------
