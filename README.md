@@ -5,7 +5,7 @@ I am a Computer Science Graduate of SDSU experienced in developing, testing, deb
 ### Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. 
 
-<a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="400" height="400"> </a> 
+<a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="600" height="400"> </a> 
 
 
 ### Games
