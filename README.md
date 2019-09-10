@@ -34,5 +34,6 @@ This [Portfolio](https://agiang96.github.io) is a webpage where people can learn
 
 <center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi_gameplay.JPG" width="700" height="400"></a></center>
 
+<a href='https://www.counters-free.net/'>free Counters</a>
 <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d24407578df42f56702ce3d8cb47465c13059a60'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/571619/t/1"></script>
