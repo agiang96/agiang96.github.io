@@ -1,3 +1,6 @@
+<a href='https://www.counters-free.net/'>free Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d24407578df42f56702ce3d8cb47465c13059a60'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/571619/t/1"></script>
+
 ## About Me
 
 I am a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. My projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, I love to learn his favorite songs on the piano!
