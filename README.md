@@ -7,6 +7,10 @@ This [Resort Reservation System](https://github.com/chauduthuan/ResortReservatio
 
 <center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="600" height="400"></a></center>
 
+This [Portfolio](https://agiang96.github.io) is a webpage where people can learn about the work I've done
+
+<center><a href="https://agiang96.github.io"><img src="/images/portf.JPG" width="600" height="400"></a></center>
+
 
 ### Games
 #### You can click on the image and it will redirect you to play the game!
