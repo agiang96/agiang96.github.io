@@ -13,7 +13,7 @@ This [Resort Reservation System](https://github.com/chauduthuan/ResortReservatio
 [Legend of Xela](https://github.com/agiang96/LegendofXela) is a First Person Shooter(FPS) Game where you try to kill as many birds as you can before you die
 
 <center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox.JPG" width="400" height="400"></a></center>
-<center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox_gameplay.JPG" width="400" height="400"></a></center>
+<center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox_gameplay.JPG" width="700" height="400"></a></center>
 
 [The Magic Conch](https://github.com/agiang96/MagicConch) is a Fortune Teller Application that can answer most of your questions
 (Magic Conch game does not work right now, so if you want to try it you can download it by clicking the hyperlink above)
