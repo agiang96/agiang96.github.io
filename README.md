@@ -23,9 +23,10 @@ This [Resort Reservation System](https://github.com/chauduthuan/ResortReservatio
 [Can You Get Out?](https://github.com/agiang96/CYGO) is a simple escape room where you try to solve the puzzle to exit through the door
 
 <center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="400" height="400"></a></center>
+<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo_gameplay.JPG" width="700" height="400"></a></center>
 
 [Rock-Paper-Scissors Inverted](https://github.com/agiang96/RPSInverted) is a fast-paced mind game with the rules inverted from typical Rock-Paper-Scissors
 
-<center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi.JPG" width="400" height="400"></a></center>
+<center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi_gameplay.JPG" width="700" height="400"></a></center>
 
 
