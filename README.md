@@ -1,4 +1,3 @@
-
 ## About Me
 
 I am a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. My projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, I love to learn his favorite songs on the piano!
@@ -29,12 +28,11 @@ This [Portfolio](https://agiang96.github.io) is a webpage where people can learn
 
 <center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="400" height="400"></a></center>
 
-<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d24407578df42f56702ce3d8cb47465c13059a60'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/571619/t/1"></script>
 <center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo_gameplay.JPG" width="700" height="400"></a></center>
 
 [Rock-Paper-Scissors Inverted](https://github.com/agiang96/RPSInverted) is a fast-paced mind game with the rules inverted from typical Rock-Paper-Scissors. This was a solo project where I created mostly everything including scripts, sprites, menu, and music system. 
 
 <center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi_gameplay.JPG" width="700" height="400"></a></center>
 
-
+<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d24407578df42f56702ce3d8cb47465c13059a60'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/571619/t/1"></script>
