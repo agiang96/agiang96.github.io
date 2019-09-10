@@ -18,7 +18,7 @@ This [Resort Reservation System](https://github.com/chauduthuan/ResortReservatio
 [The Magic Conch](https://github.com/agiang96/MagicConch) is a Fortune Teller Application that can answer most of your questions
 (Magic Conch game does not work right now, so if you want to try it you can download it by clicking the hyperlink above)
 
-<center><a href="https://agiang96.github.io/MagicConch"><img src="/images/mc_gameplay.JPG" width="600" height="400" ></a></center> 
+<center><a href="https://agiang96.github.io/MagicConch"><img src="/images/mc_gameplay.JPG" width="700" height="400" ></a></center> 
 
 [Can You Get Out?](https://github.com/agiang96/CYGO) is a simple escape room where you try to solve the puzzle to exit through the door
 
