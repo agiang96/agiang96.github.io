@@ -15,7 +15,7 @@ Ventra App for Chicago ([Android](https://play.google.com/store/apps/details?id=
 
 
 SmarTrip App for Washington D.C (Android COMING SOON) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
-<center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="50%" height="50%"></a></center>
+<center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="100%" height="100%"></a></center>
 
 
 ### School Projects
