@@ -29,7 +29,7 @@ Tested performance of several systems with JMeter and BlazeMeter and helped cert
 ### School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
-<center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="100^" height="100%"></a></center>
+<center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="100%" height="100%"></a></center>
 
 This [Portfolio](https://agiang96.github.io) is a webpage where people can learn about the work I've done
 
@@ -50,7 +50,7 @@ This [Portfolio](https://agiang96.github.io) is a webpage where people can learn
 
 [Can You Get Out?](https://github.com/agiang96/CYGO) is a simple escape room where you try to solve the puzzle to exit through the door. I created the UI with one of my team members, which includes the buttons, menu, music system, and credits animation. 
 
-<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="100%" height="100%"></a></center>
+<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="50%" height="50%"></a></center>
 
 <center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo_gameplay.JPG" width="100%" height="100%"></a></center>
 
