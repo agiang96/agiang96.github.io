@@ -3,7 +3,7 @@
 Associate Software Development Engineer in Test experienced in performance testing using JMeter and BlazeMeter, app testing managed with TestRail and JIRA, and frequently collaborating with teammates to meet deadlines for Ventra, SmarTrip, and TAPLA apps. Prior experience developing, testing, debugging code, and object-oriented programming in building games/applications and websites. Outside of work, I love to keep fit and spend time with friends and family. I also love to listen to music and play piano and guitar.
 
 ### Projects
-<center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw"></center>
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="400" height="600"></center>
 
 
 ### School Projects
