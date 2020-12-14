@@ -38,7 +38,7 @@ This [Portfolio](https://agiang96.github.io) is a webpage where people can learn
 #### You can click on the image and it will redirect you to play the game!
 [Legend of Xela](https://github.com/agiang96/LegendofXela) is a First Person Shooter(FPS) Game where you try to kill as many birds as you can before you die. I created most of the UI (User Interface) including the buttons, menu, health bars, and music system.
 
-<center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox.JPG" width="75%" height="75%"></a></center>
+<center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox.JPG" width="50%" height="50%"></a></center>
 <center><a href="https://agiang96.github.io/LegendOfXela"><img src="/images/lox_gameplay.JPG" width="100%" height="100%"></a></center>
 
 [The Magic Conch](https://github.com/agiang96/MagicConch) is a Fortune Teller Application that can answer most of your questions. I implemented the TCP Server/Client with one of my team members and worked with 2 others to create the application. 
