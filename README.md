@@ -29,7 +29,7 @@ Tested performance of several systems with JMeter and BlazeMeter and helped cert
 ### School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
-<center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="100^" height="400"></a></center>
+<center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="100^" height="100%"></a></center>
 
 This [Portfolio](https://agiang96.github.io) is a webpage where people can learn about the work I've done
 
@@ -50,13 +50,13 @@ This [Portfolio](https://agiang96.github.io) is a webpage where people can learn
 
 [Can You Get Out?](https://github.com/agiang96/CYGO) is a simple escape room where you try to solve the puzzle to exit through the door. I created the UI with one of my team members, which includes the buttons, menu, music system, and credits animation. 
 
-<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="400" height="400"></a></center>
+<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo.JPG" width="100%" height="100%"></a></center>
 
-<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo_gameplay.JPG" width="700" height="400"></a></center>
+<center><a href="https://agiang96.github.io/CYGO"><img src="/images/cygo_gameplay.JPG" width="100%" height="100%"></a></center>
 
 [Rock-Paper-Scissors Inverted](https://github.com/agiang96/RPSInverted) is a fast-paced mind game with the rules inverted from typical Rock-Paper-Scissors. This was a solo project where I created mostly everything including scripts, sprites, menu, and music system. 
 
-<center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi_gameplay.JPG" width="700" height="400"></a></center>
+<center><a href="https://agiang96.github.io/RPSI"><img src="/images/rpsi_gameplay.JPG" width="100%" height="100%"></a></center>
 
 <a href='https://www.counters-free.net/'>free Counters</a>
 <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d24407578df42f56702ce3d8cb47465c13059a60'></script>
