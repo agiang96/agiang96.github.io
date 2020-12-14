@@ -2,7 +2,7 @@
 
 Associate Software Development Engineer in Test experienced in performance testing using JMeter and BlazeMeter, app testing managed with TestRail and JIRA, and frequently collaborating with teammates to meet deadlines for Ventra, SmarTrip, and TAPLA apps, as well as OMNY website. Prior experience developing, testing, debugging code, and object-oriented programming in building games/applications and websites. Outside of work, I love to keep fit and spend time with friends and family. I also love to listen to music and play piano and guitar.
 
-### Projects
+## Projects
 Tested performance of several systems with JMeter and BlazeMeter and helped certify test sets for mobile apps:
 
 #### Ventra App for Chicago ([Android](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)) ([iOS](https://apps.apple.com/us/app/ventra/id1005645256))
@@ -24,7 +24,7 @@ Tested performance of several systems with JMeter and BlazeMeter and helped cert
 <center><a href="https://omny.info/"><img src="https://omny.info/hardcoded-assets/OMNY-desktop.svg" width="100%" height="100%"></a></center>
 
 
-### School Projects
+## School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
 <center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="100%" height="100%"></a></center>
