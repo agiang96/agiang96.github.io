@@ -1,8 +1,12 @@
 ## About Me
 
-I am a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. My projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, I love to learn his favorite songs on the piano!
+Associate Software Development Engineer in Test experienced in performance testing using JMeter and BlazeMeter, app testing managed with TestRail and JIRA, and frequently collaborating with teammates to meet deadlines for Ventra, SmarTrip, and TAPLA apps. Prior experience developing, testing, debugging code, and object-oriented programming in building games/applications and websites. Outside of work, I love to keep fit and spend time with friends and family. I also love to listen to music and play piano and guitar.
 
 ### Projects
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw"></center>
+
+
+### School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
 <center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="600" height="400"></a></center>
