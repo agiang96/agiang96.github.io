@@ -1,8 +1,19 @@
 ## About Me
 
-I am a Computer Science Graduate of SDSU experienced in developing, testing, debugging code and object-oriented programming. My projects are mostly comprised of building games/applications and websites, especially in a collaborative team. Aside from coding, I love to learn his favorite songs on the piano!
+Associate Software Development Engineer in Test experienced in performance testing using JMeter and BlazeMeter, app testing managed with TestRail and JIRA, and frequently collaborating with teammates to meet deadlines for Ventra, SmarTrip, and TAPLA apps. Prior experience developing, testing, debugging code, and object-oriented programming in building games/applications and websites. Outside of work, I love to keep fit and spend time with friends and family. I also love to listen to music and play piano and guitar.
 
 ### Projects
+Tested performance of several systems with JMeter and BlazeMeter and helped certify test sets for mobile apps:
+
+Ventra App for Chicago ([Android](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)) ([iOS](https://apps.apple.com/us/app/ventra/id1005645256))
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="25%" height="25%"></center> <center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/-NIKC29J5S3A5EVB8OLKmmmccdnBPQD-IAFPkL-PrAfRAWfEsQcCJmX3t55Eqch4s1i0=w2560-h1297-rw" width="25%" height="=25%"></center> <center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/R5KB7mDzpX-J7hQHvwZTNZDNcrhQcGNX9VRBG8m1nmeXelGE_eqiXZbcofaShq-aUko=w2560-h1297-rw" width="25%" height="25%"></center> <center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/cpSff178lTykpl0dXYbwN_5W7fYQ1gqdyqgVb1dflH9fqgmYaDQGU-odZCENV2tWOg=w2560-h1297-rw" width="25%" height="25%"></center>
+
+
+SmarTrip App for Washington D.C (Android COMING SOON) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="35%" height="35%"></center>
+
+
+### School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
 <center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="600" height="400"></a></center>
