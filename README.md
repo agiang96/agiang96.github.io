@@ -15,13 +15,13 @@ Ventra App for Chicago ([Android](https://play.google.com/store/apps/details?id=
 
 
 SmarTrip App for Washington D.C (Android COMING SOON) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
-<center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.png" width="50%" height="50%"></a></center>
+<center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="50%" height="50%"></a></center>
 
 
 ### School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
 
-<center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.png" width="600" height="400"></a></center>
+<center><a href="https://github.com/chauduthuan/ResortReservationSystem"><img src="/images/rrs.JPG" width="600" height="400"></a></center>
 
 This [Portfolio](https://agiang96.github.io) is a webpage where people can learn about the work I've done
 
