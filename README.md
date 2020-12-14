@@ -5,7 +5,7 @@ Associate Software Development Engineer in Test experienced in performance testi
 ### Projects
 Tested performance of several systems with JMeter and BlazeMeter and helped certify test sets for mobile apps:
 
-####Ventra App for Chicago 
+#### Ventra App for Chicago 
 ([Android](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)) ([iOS](https://apps.apple.com/us/app/ventra/id1005645256))
 <center float="left">
   <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="24%" height="24%">
@@ -15,15 +15,15 @@ Tested performance of several systems with JMeter and BlazeMeter and helped cert
 </center>
 
 
-####SmarTrip App for Washington D.C 
+#### SmarTrip App for Washington D.C 
 (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
 <center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="100%" height="100%"></a></center>
 
-####TAP LA App for Los Angeles
+#### TAP LA App for Los Angeles
 (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/tap-la/id1505839730))
 <center><a href="https://apps.apple.com/us/app/tap-la/id1505839730"><img src="/images/tapla.PNG" width="100%" height="100%"></a></center>
 
-####OMNY Website for New York
+#### OMNY Website for New York
 <center><a href="https://omny.info/"><img src="https://omny.info/hardcoded-assets/OMNY-desktop.svg" width="100%" height="100%"></a></center>
 
 ### School Projects
