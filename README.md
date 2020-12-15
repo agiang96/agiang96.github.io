@@ -12,17 +12,20 @@ Tested performance of several systems with JMeter and BlazeMeter and helped cert
   <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/R5KB7mDzpX-J7hQHvwZTNZDNcrhQcGNX9VRBG8m1nmeXelGE_eqiXZbcofaShq-aUko=w2560-h1297-rw" width="24%" height="24%">
   <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/cpSff178lTykpl0dXYbwN_5W7fYQ1gqdyqgVb1dflH9fqgmYaDQGU-odZCENV2tWOg=w2560-h1297-rw" width="24%" height="24%">
 </center>
-
+[Image Source](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)
 
 #### SmarTrip App for Washington D.C (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
 <center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="100%" height="100%"></a></center>
+[Image Source](https://apps.apple.com/us/app/smartrip/id1516539463)
 
 #### TAP LA App for Los Angeles (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/tap-la/id1505839730))
 <center><a href="https://apps.apple.com/us/app/tap-la/id1505839730"><img src="/images/tapla.png" width="100%" height="100%"></a></center>
+[Image Source](https://apps.apple.com/us/app/tap-la/id1505839730)
+
 
 #### OMNY Website for New York
 <center><a href="https://omny.info/"><img src="https://omny.info/hardcoded-assets/OMNY-desktop.svg" width="75%" height="75%"></a></center>
-
+[Image Source](https://omny.info/)
 
 ## School Projects
 This [Resort Reservation System](https://github.com/chauduthuan/ResortReservationSystem) is a webpage where visitors can learn about the resort and register to become customers; customers can reserve rooms, and employees can manage customers. I developed the Landing Page you see in the image and worked with 6 others to create the whole system. 
