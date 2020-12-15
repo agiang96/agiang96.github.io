@@ -1,22 +1,19 @@
 ## About Me
-
 Associate Software Development Engineer in Test experienced in performance testing using JMeter and BlazeMeter, app testing managed with TestRail and JIRA, and frequently collaborating with teammates to meet deadlines for Ventra, SmarTrip, and TAPLA apps, as well as OMNY website. Prior experience developing, testing, debugging code, and object-oriented programming in building games/applications and websites. Outside of work, I love to keep fit and spend time with friends and family. I also love to listen to music and play piano and guitar.
 
 ## Projects
 Tested performance of several systems with JMeter and BlazeMeter and helped certify test sets for mobile apps:
 
 #### Ventra App for Chicago ([Android](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)) ([iOS](https://apps.apple.com/us/app/ventra/id1005645256))
-<center float="left">
-  <a href="https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp"><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="24%" height="24%">
+<center float="left"><a href="https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp"><img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/44LqNNXy-HsphAkGf8e9xsT7eq5PVkWOSJa47LqDocn3HeG8G28KbG71CqkN2rUHeNQ=w2560-h1297-rw" width="24%" height="24%">
   <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/-NIKC29J5S3A5EVB8OLKmmmccdnBPQD-IAFPkL-PrAfRAWfEsQcCJmX3t55Eqch4s1i0=w2560-h1297-rw" width="24%" height="=24%">
   <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/R5KB7mDzpX-J7hQHvwZTNZDNcrhQcGNX9VRBG8m1nmeXelGE_eqiXZbcofaShq-aUko=w2560-h1297-rw" width="24%" height="24%">
-  <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/cpSff178lTykpl0dXYbwN_5W7fYQ1gqdyqgVb1dflH9fqgmYaDQGU-odZCENV2tWOg=w2560-h1297-rw" width="24%" height="24%">
-</center>
+  <img style="-webkit-user-select: none;margin: auto;" src="https://play-lh.googleusercontent.com/cpSff178lTykpl0dXYbwN_5W7fYQ1gqdyqgVb1dflH9fqgmYaDQGU-odZCENV2tWOg=w2560-h1297-rw" width="24%" height="24%"></center>
 [Image Source](https://play.google.com/store/apps/details?id=com.ventrachicago.riderapp)
 
 #### SmarTrip App for Washington D.C (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/smartrip/id1516539463))
 <center><a href="https://apps.apple.com/us/app/smartrip/id1516539463"><img src="/images/smartrip.PNG" width="100%" height="100%"></a></center>
-([Image Source](https://apps.apple.com/us/app/smartrip/id1516539463))
+[Image Source](https://apps.apple.com/us/app/smartrip/id1516539463)
 
 #### TAP LA App for Los Angeles (Android Coming Soon) ([iOS](https://apps.apple.com/us/app/tap-la/id1505839730))
 <center><a href="https://apps.apple.com/us/app/tap-la/id1505839730"><img src="/images/tapla.png" width="100%" height="100%"></a></center>
